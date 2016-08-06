@@ -1,0 +1,29 @@
+_repo: Johnny-Crow-s-Party_10557
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brooke, L. Leslie (Leonard Leslie)
+    aliases:
+    - Brooke, Leslie
+    - Brooke, Leonard Leslie
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '3547'
+    url: http://www.gutenberg.org/2009/agents/3547
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile poetry'
+- !lcsh 'Nursery rhymes'
+- GITenberg
+title: Johnny Crow's Party
+url: http://www.gutenberg.org/ebooks/10557
